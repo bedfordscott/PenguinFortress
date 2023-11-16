@@ -26,8 +26,8 @@ Tested on Debian-based Linux systems (adjustments may be required for other dist
 ### Usage
 To use the Linux Security Suite, clone this repository and run the main.py script:
 
-git clone [repo-url]
-cd [repo-directory]
+git clone https://github.com/bedfordscott/PenguinFortress/
+cd PenguinFortress
 sudo python3 main.py
 
 ### Warning
